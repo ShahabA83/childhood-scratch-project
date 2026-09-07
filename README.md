@@ -3,9 +3,9 @@
 > یک یادگار دیجیتال؛ بازی‌ای که سال‌ها پیش با **Scratch** ساختم و حالا برای ثبت در تاریخچه‌ی مسیرم، اینجا نگهش می‌دارم.
 
 <p align="center">
-  <img src="images/screenshot1.png" width="32%" alt="صفحه‌ی شروع بازی">
-  <img src="images/screenshot2.png" width="32%" alt="صفحه‌ی راهنما">
-  <img src="images/screenshot3.png" width="32%" alt="نمایی از گیم‌پلی">
+  <img src="images/1.png" width="32%" alt="صفحه‌ی شروع بازی">
+  <img src="images/2.png" width="32%" alt="صفحه‌ی راهنما">
+  <img src="images/3.png" width="32%" alt="نمایی از گیم‌پلی">
 </p>
 
 ---
@@ -36,9 +36,9 @@
 ├── code/
 │   └── Project014.sb3      # فایل اصلی پروژه‌ی Scratch
 ├── images/
-│   ├── screenshot1.png     # صفحه‌ی شروع
-│   ├── screenshot2.png     # صفحه‌ی راهنما
-│   └── screenshot3.png     # گیم‌پلی
+│   ├── 1.png     # صفحه‌ی شروع
+│   ├── 2.png     # صفحه‌ی راهنما
+│   └── 3.png     # گیم‌پلی
 └── README.md
 ```
 
