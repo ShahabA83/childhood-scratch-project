@@ -61,3 +61,75 @@
 ---
 
 <p align="center"><i>ساخته‌شده با کنجکاوی یک بچه، نگه‌داشته‌شده با افتخار یک مهندس. ✨</i></p>
+
+<br>
+
+---
+
+---
+
+<br>
+
+# 🌍 Earth Guardian — A Scratch Game from Childhood
+
+> A digital keepsake — a game I built years ago with **Scratch**, kept here as a record of where my journey began.
+
+<p align="center">
+  <img src="images/1.png" width="32%" alt="Start screen">
+  <img src="images/2.png" width="32%" alt="Guide screen">
+  <img src="images/3.png" width="32%" alt="Gameplay screenshot">
+</p>
+
+---
+
+## 📖 About This Project
+
+I built this game as a kid using **Scratch**, MIT's block-based programming platform. Now that I'm working toward **computer vision and AI**, I wanted to archive this project here — not to showcase today's technical skill, but as a reminder of where I started.
+
+If you open the project and find the blocks simple or the logic rough, that's exactly the point. This is a keepsake, not a professional portfolio. 🙂
+
+## 🎮 About the Game
+
+A simple space game where a Ghost character moves through space and must:
+
+| Object | Score | Description |
+|---|---|---|
+| 🟡 Yellow ball | `+1` | Collecting it adds to your score |
+| 🟢 Green ball | `+2` | Worth more points |
+| 🪨 Gray rock | `-1` | Colliding with it subtracts points |
+| 🟠 Orange rock | `-2` | Colliding with it costs even more |
+
+The game begins on a **start screen** (click the Earth to begin), with a **guide** button that shows the scoring rules before you play.
+
+## 🗂 Project Structure
+
+```
+.
+├── code/
+│   └── Project014.sb3      # The main Scratch project file
+├── images/
+│   ├── 1.png     # Start screen
+│   ├── 2.png     # Guide screen
+│   └── 3.png     # Gameplay
+└── README.md
+```
+
+> 💡 If your folder or file names differ, just update the paths in this file to match your own structure.
+
+## ▶️ How to Run It
+
+1. Go to the official [Scratch](https://scratch.mit.edu/) website.
+2. Use **File → Load from your computer** and select `Project014.sb3`.
+3. Or, for a quick test, use [Turbowarp](https://turbowarp.org/editor) — just drag and drop the `.sb3` file.
+
+## 🛠 Built With
+
+- [Scratch](https://scratch.mit.edu/) — MIT Media Lab's block-based platform for teaching programming to kids and teens
+
+## 🙋‍♂️ About Me Today
+
+I now work on **Computer Vision**. This repository is more sentimental than technical — a reminder of the first time I turned an idea into something "playable."
+
+---
+
+<p align="center"><i>Built with a child's curiosity, kept with an engineer's pride. ✨</i></p>
